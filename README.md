@@ -1,8 +1,12 @@
 # HIMAS - Healthcare Intelligence Multi-Agent System
 
 > **Federated Learning Platform for ICU Mortality Prediction with Privacy-Preserving Multi-Hospital Collaboration**
+> 
 > **First Prize winner at Google ML Expo**
-> ![Google](https://img.shields.io/badge/Google-ML%20Expo-4285F4?logo=google&logoColor=white)
+> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"
+>      alt="Google"
+>      height="20"
+>      style="vertical-align: middle;" />
 
 
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/downloads/)
