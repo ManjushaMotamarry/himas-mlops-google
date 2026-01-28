@@ -1,7 +1,7 @@
 <h1>
   HIMAS – Healthcare Intelligence Multi-Agent System
   <br />
-  <img src="New-Google-Logo.jpg" height="30" />
+  <img src="New-Google-Logo.jpg" height="50" />
   <small> First Prize Winner – Google ML Expo</small>
 </h1>
 
