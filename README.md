@@ -1,9 +1,6 @@
-<h1>
-  HIMAS – Healthcare Intelligence Multi-Agent System
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google.svg" height="26" />
-  <small>First Prize Winner – Google ML Expo</small>
-</h1>
-
+# HIMAS - Healthcare Intelligence Multi-Agent System 
+<img src=""/https://1000logos.net/google-logo/>
+# First Prize winner - Google ML Expo 
 
 > **Federated Learning Platform for ICU Mortality Prediction with Privacy-Preserving Multi-Hospital Collaboration**
 
