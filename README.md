@@ -1,22 +1,10 @@
-# HIMAS - Healthcare Intelligence Multi-Agent System
-
-> **Federated Learning Platform for ICU Mortality Prediction with Privacy-Preserving Multi-Hospital Collaboration**
-> 
-> **First Prize winner at Google ML Expo**
-> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"
->      alt="Google"
->      height="20"
->      style="vertical-align: middle;" />
-
 <h1>
   HIMAS – Healthcare Intelligence Multi-Agent System
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg"
-       height="26"
-       style="vertical-align: middle; margin-left: 8px;" />
-  <span style="font-size: 0.55em; font-weight: normal; margin-left: 6px;">
-    First Prize Winner – Google ML Expo
-  </span>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" height="26" />
+  <small>First Prize Winner – Google ML Expo</small>
 </h1>
+
+> **Federated Learning Platform for ICU Mortality Prediction with Privacy-Preserving Multi-Hospital Collaboration**
 
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/downloads/)
 [![Airflow 3.1](https://img.shields.io/badge/Airflow-3.1.0-017CEE.svg)](https://airflow.apache.org/)
