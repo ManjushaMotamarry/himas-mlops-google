@@ -5,6 +5,13 @@
   <small> First Prize Winner – Google ML Expo</small>
 </h1>
 
+<p align="center">
+  <a href="./MLexpo-Google-certificate.pdf">
+    📄 View Certificate – Google ML Expo (First Prize)
+  </a>
+</p>
+
+
 
 > **Federated Learning Platform for ICU Mortality Prediction with Privacy-Preserving Multi-Hospital Collaboration**
 
